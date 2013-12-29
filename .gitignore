@@ -1,0 +1,8 @@
+*
+!.gitignore
+!Chunk.cpp
+!Chunk.h
+!MChunk.cpp
+!MChunk.h
+!Pool.cpp
+!Pool.h
